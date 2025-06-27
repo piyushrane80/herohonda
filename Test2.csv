@@ -4,8 +4,8 @@ ProductSubcategoryKey,SubcategoryName,ProductCategoryKey
 3,Touring Bikes,1
 4,Handlebars,2
 5,Bottom Brackets,2
-6,Brakes,2
-7,Chains,2
+6,Pedals,2
+7,Road Frames,2
 8,Cranksets,2
 9,Derailleurs,2
 10,Forks,2
@@ -36,3 +36,5 @@ ProductSubcategoryKey,SubcategoryName,ProductCategoryKey
 35,Panniers,4
 36,Pumps,4
 37,Tires and Tubes,4
+38,Brakes,5
+39,Chains,4
